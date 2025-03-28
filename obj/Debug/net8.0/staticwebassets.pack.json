@@ -1,0 +1,517 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Assignment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignment.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\7946898_3747425.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\7946898_3747425.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\DALL·E 2024-12-02 16.12.32 - A modern dark blue-themed web design featuring three distinct forms displayed at different angles. The forms include_ a login form with username and p.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\DALL·E 2024-12-02 16.12.32 - A modern dark blue-themed web design featuring three distinct forms displayed at different angles. The forms include_ a login form with username and p.webp"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\NewH.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\NewH.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\NewHeader.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\NewHeader.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192323.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192323.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192335.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192335.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192341.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192341.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192415.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192415.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192430.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192430.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192437.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192437.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192453.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ScreenShots\\Screenshot 2024-12-03 192453.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\details-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\details-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\details-icon-bootstrap.png",
+      "PackagePath": "staticwebassets\\assets\\images\\details-icon-bootstrap.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\details-icon-css.png",
+      "PackagePath": "staticwebassets\\assets\\images\\details-icon-css.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\details-icon-html.png",
+      "PackagePath": "staticwebassets\\assets\\images\\details-icon-html.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\details-icon-illustrator.png",
+      "PackagePath": "staticwebassets\\assets\\images\\details-icon-illustrator.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\details-icon-javascript.png",
+      "PackagePath": "staticwebassets\\assets\\images\\details-icon-javascript.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\details-icon-photoshop.png",
+      "PackagePath": "staticwebassets\\assets\\images\\details-icon-photoshop.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\down-arrow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\down-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\header-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\li-zhang-me4ymQcuImg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\li-zhang-me4ymQcuImg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\logoNew.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logoNew.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\project-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\project-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\project-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\project-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\project-details-large.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-details-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\project-details-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-details-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\up-arrow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\up-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\work-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\work-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\work-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\work-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\work-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\work-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\work-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\work-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\work-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\work-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\images\\work-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\work-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\readme\\readme.txt",
+      "PackagePath": "staticwebassets\\assets\\readme\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arabg\\Desktop\\Assignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Assignment.props",
+      "PackagePath": "build\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment.props",
+      "PackagePath": "buildMultiTargeting\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Assignment.props",
+      "PackagePath": "buildTransitive\\Assignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

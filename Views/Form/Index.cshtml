@@ -1,0 +1,112 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="card my-card">
+    <div class="container">
+
+
+        <div class="row row-cols-1 row-cols-md-2 g-4">
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/assets/images/ScreenShots/Screenshot 2024-12-03 192323.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Operation of two numbers</h5>
+                        <p class="card-text">Find The Maxiumum , Minimum and Average of two numbers </p>
+                        <input type="button" class="form-control-submit-button ml-5" value="Start" onclick="location.href='@Url.Action("Op2n", "Form")'" />
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/assets/images/ScreenShots/Screenshot 2024-12-03 192335.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Calculation of two numbers
+                        </h5>
+                        <p class="card-text">Find The Addition , Subtraction and Division of two numbers</p>
+                        <input type="button" class="form-control-submit-button ml-5" value="Start" onclick="location.href='@Url.Action("Calc2N", "Form")'" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/assets/images/ScreenShots/Screenshot 2024-12-03 192341.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Second Minimum</h5>
+                        <p class="card-text">Find The Second Minimum Number of three Numbers two as a Text box and one as a selector of 30 numbers</p>
+                        <input type="button" class="form-control-submit-button ml-5" value="Start" onclick="location.href='@Url.Action("SecMin", "Form")'" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/assets/images/ScreenShots/Screenshot 2024-12-03 192415.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Operation of Three Numbers</h5>
+                        <p class="card-text">Find The Maximum and Average of Three Numbers and Show the resault in a New Standalon Page</p>
+                        <input type="button" class="form-control-submit-button ml-5" value="Start" onclick="location.href='@Url.Action("Op3N", "Form")'" />
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/assets/images/ScreenShots/Screenshot 2024-12-03 192430.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Product 1</h5>
+                        <p class="card-text">Find Price of Products by Fill the Product Name and Price of item and count then the report will show the price multiply by count and show the resault as a new standalon page.</p>
+                        <input type="button" class="form-control-submit-button ml-5" value="Start" onclick="location.href='@Url.Action("PPC", "Form")'" />
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="~/assets/images/ScreenShots/Screenshot 2024-12-03 192437.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Product 2</h5>
+                        <p class="card-text">Find a total of price of a product by filling the user name and Product Name then you will redirect to new page to fill the price and count then the resault page will show all the information you filled and the total at the end.</p>
+                        <input type="button" class="form-control-submit-button ml-5" value="Start" onclick="location.href='@Url.Action("P2", "Form")'" />
+
+
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="col" id="col2">
+                <div class="card h-100">
+                    <img src="~/assets/images/ScreenShots/Screenshot 2024-12-03 192453.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Dept</h5>
+                        <p class="card-text">Fill the Dept by choose a radio button and fill the phone number and Desc you want and see the resault in new Page .</p>
+                        <input type="button" class="form-control-submit-button ml-5" value="Start" onclick="location.href='@Url.Action("Dept", "Form")'" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<style>
+    .my-card {
+        opacity: 0;
+        transform: translateX(-50px); /* Slide in from left */
+        transition: opacity 0.5s ease, transform 0.5s ease;
+    }
+
+        .my-card.visible {
+            opacity: 1;
+            transform: translateX(0); /* Normal position */
+        }
+</style>
+
+<script>
+    window.addEventListener('load', function () {
+        const card = document.querySelector('.my-card');
+        card.classList.add('visible');
+    });
+</script>

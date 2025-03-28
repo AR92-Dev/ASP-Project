@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    .button-container {
+        display: flex;
+        gap: 10px; 
+    }
+
+    .form-control-submit-button {
+        flex: none; 
+    }
+
+</style>
+<div id="F_Item">
+    <div id="contact" class="form-1 bg-gray">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <!-- Contact Form -->
+                    <form id="contactForm" method="post">
+                        <div class="form-group">
+                            <input type="text" class="form-control-input" id="cname" name="No1" value="@ViewBag.No1" required="">
+                            <label class="label-control" for="cname">No1</label>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control-input" id="cemail" name="No2" value="@ViewBag.No2" required="">
+                            <label class="label-control" for="cemail">No2</label>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <div class="button-container">
+                                <button type="submit" class="form-control-submit-button" name="b1" value="max">Max</button>
+                                <button type="submit" class="form-control-submit-button" name="b1" value="min">Min</button>
+                                <button type="submit" class="form-control-submit-button" name="b1" value="avg">Avg</button>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <input type="text" class="form-control-input" id="cmessage" name="status" value="@ViewBag.Res" readonly="readonly">
+                            <label class="label-control" for="cmessage">Resault</label>
+                        </div>
+
+                    </form>
+                    <!-- end of contact form -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div>
+</div>
